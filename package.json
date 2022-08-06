@@ -1,0 +1,16 @@
+{
+  "name": "tranning-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon part_5/app2.js"
+  },
+  "keywords": [],
+  "author": "Md. Kamal Hossain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.19"
+  }
+}
