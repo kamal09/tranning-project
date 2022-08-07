@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "nodemon part_5/app2.js"
+    "start": "nodemon file_upload/fileUpload.js"
   },
   "keywords": [],
   "author": "Md. Kamal Hossain",
